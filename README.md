@@ -7,5 +7,5 @@ Obacht, folgende Dinge sollten bei der Nutzung des Tools beachtet werden:
   + Der Auftriebsbeiwert des Profils ist proportional zum Anströmwinkel. Die Werte für den Auftrieb sind deswegen nur für kleine Anströmwinkel physikalisch korrekt.
     Aus diesem Grund sollte eine Schnelllaufzahl > 3 eingestellt werden, um die Anströmwinkel klein zu halten. Das Anlaufen der Anlage aus dem Stillstand kann deswegen
     nicht dargestellt werden.
-  + Es werden (bisher) keine Widerstände berücksichtigt.
-  + Die Blätter sind masselos -> keine Zentrifugalkräfte.
+  + Es werden (bisher) keine Widerstände berücksichtigt. Die Tangentialkräfte sind also lediglich Auftriebskräfte.
+  + Die Blätter sind masselos -> keine Zentrifugalkräfte. Die Radialkräfte sind also lediglich Auftriebskräfte.
