@@ -1,6 +1,6 @@
 # Vertikalwindkraftanlage
  
-Dieses Tool soll die Funktionsweise eines H-Darrieus-Rotors mit 3 Blättern visualisieren. Die verwendeten Werte für die Windgeschwindigkeit etc. sind dabei willkürlich gewählt und dienen nur einer qualitativen Betrachtung der auftretenden Kräfte.
+Dieses Tool soll die Funktionsweise eines H-Darrieus-Rotors mit 3 Blättern visualisieren. Die verwendeten Werte für die Windgeschwindigkeit etc. sind dabei willkürlich gewählt und dienen nur einer qualitativen Betrachtung der auftretenden Kräfte. Inspiration für dieses Tool war das YouTube-Video von Jörn Loviscach (https://youtu.be/q9HUGboOV2s).
 
 Obacht, folgende Dinge sollten bei der Nutzung des Tools beachtet werden:
 
@@ -9,3 +9,4 @@ Obacht, folgende Dinge sollten bei der Nutzung des Tools beachtet werden:
     nicht dargestellt werden.
   + Es werden (bisher) keine Widerstände berücksichtigt. Die Tangentialkräfte sind also lediglich Auftriebskräfte.
   + Die Blätter sind masselos -> keine Zentrifugalkräfte. Die Radialkräfte sind also lediglich Auftriebskräfte.
+
