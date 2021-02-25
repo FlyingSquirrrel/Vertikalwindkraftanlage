@@ -10,6 +10,6 @@ Obacht, folgende Dinge sollten bei der Nutzung des Tools beachtet werden:
   + Es werden (bisher) keine Widerstände berücksichtigt. Die Tangentialkräfte sind also lediglich Auftriebskräfte.
   + Die Blätter sind masselos -> keine Zentrifugalkräfte. Die Radialkräfte sind also lediglich Auftriebskräfte.
 
-Wer möchte darf das Tool gerne selber nutzen oder sogar erweitern/verbessern. Es gibt noch zahlreiche Möglichkeiten das Tool zu verbessern. Sei es die Berücksichtigung von Widerständen, eine bessere Implementierung des Auftriebs mit Stall, sodass auch große Anströmwinkel dargestellt werden können und dadurch der Anfahrvorgang betrachtet werden kann. Die Krönung wäre dann die Verknüpfung der Rotationsgeschwindigkeit an die Windgeschwindigkeit (Windgeschwindigkeit -> Auftrieb -> antreibendes Moment -> Rotationsgeschwindigkeit). Für Hinweise auf Fehler bin ich natürlich sehr dankbar.
+Wer möchte darf das Tool gerne selber nutzen oder sogar erweitern/verbessern. Es gibt noch zahlreiche Möglichkeiten das Tool zu verbessern. Sei es die Berücksichtigung von Widerständen, eine bessere Implementierung des Auftriebs mit Stall, sodass auch große Anströmwinkel dargestellt werden können und dadurch der Anfahrvorgang betrachtet werden kann. Die Krönung wäre dann die Verknüpfung der Rotationsgeschwindigkeit mit der Windgeschwindigkeit (Windgeschwindigkeit -> Auftrieb -> antreibendes Moment -> Rotationsgeschwindigkeit). Für Hinweise auf Fehler bin ich natürlich sehr dankbar.
 
 Viel Spaß!
