@@ -1,6 +1,6 @@
 # Vertikalwindkraftanlage
  
-Dieses Tool soll die Funktionsweise eines H-Darrieus-Rotors mit 3 Blättern visualisieren. Die verwendeten Werte für die Windgeschwindigkeit etc. sind dabei willkürlich gewählt und dienen nur einer qualitativen Betrachtung der auftretenden Kräfte. Inspiration für dieses Tool war das YouTube-Video von Jörn Loviscach (https://youtu.be/q9HUGboOV2s).
+Dieses Tool soll die Funktionsweise eines H-Darrieus-Rotors mit 3 Blättern visualisieren. Die verwendeten Werte für die Windgeschwindigkeit etc. sind dabei willkürlich gewählt und dienen nur einer qualitativen Betrachtung der auftretenden Kräfte. Inspiration für dieses Tool war das YouTube-Video von Jörn Loviscach (https://youtu.be/q9HUGboOV2s). Die Datei lässt sich mit Geogebra öffnen.
 
 Obacht, folgende Dinge sollten bei der Nutzung des Tools beachtet werden:
 
